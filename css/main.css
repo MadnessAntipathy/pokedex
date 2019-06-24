@@ -1,0 +1,72 @@
+header{
+
+  width: 30%;
+  margin: auto;
+}
+h1 {
+  text-align:center;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+p{
+  text-align:center;
+}
+div img {
+  display: block;
+  margin: auto;
+}
+.frameContainer{
+  background: #FF0000;
+  width: 50%;
+  margin: auto;
+}
+#frameId{
+  display: block;
+  margin: auto;
+  width: 80%;
+}
+.dotless {
+  list-style: none;
+  text-align: center;
+}
+.pokeType {
+  text-align: center;
+  list-style: none;
+}
+.types {
+  font-size: 20px;
+  font-weight: bold;
+}
+#pokeTypeTitle {
+  font-size: 30px;
+  font-weight: bold;
+}
+.description {
+  width: 30%;
+  margin:0 auto;
+}
+.stats, td, th {
+  border: 1px solid black;
+  text-align: center;
+  width: 30%;
+  margin: 0 auto;
+  table-layout: fixed;
+}
+.strnwkn{
+  width: 30%;
+  margin: 0 auto;
+}
+.strnwkn td, .strnwkn th{
+  border: 0;
+}
+.elementType, .elementType tr, .elementType td {
+  border: 1px solid black;
+  text-align: center;
+  width: 30%;
+  margin: 0 auto;
+  table-layout: fixed;
+}
