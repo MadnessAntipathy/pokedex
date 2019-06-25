@@ -19,6 +19,31 @@ div img {
   display: block;
   margin: auto;
 }
+.sidebar{
+  height: 100%;
+  width: 20%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  background: rgba(0,0,0,0.5)
+}
+.sidenavlink{
+  position:relative;
+  top: 30%;
+  left: 30%;
+  padding: 5%;
+  font-size: 20px;
+  font-weight: bold;
+}
+.sidenavlink a{
+  color: rgba(0,0,0,1)
+}
+#closebtn{
+  font-weight: bold;
+  position:absolute;
+  top: 0;
+  right: 0;
+}
 .frameContainer{
   background: #FF0000;
   width: 50%;
